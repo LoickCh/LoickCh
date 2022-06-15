@@ -1,5 +1,7 @@
 # Welcome to my github repository! 
-I code mainly in Python and have some knowledge of C++ and Julia. My work is mainly focused on 3D computer vision problems but I study more broadly DL, ML, RL, and optimization.
+
+I am French engineer who codes mainly in Python and has some knowledge in C++ and Julia. My work is mainly focused on 3D computer vision problems but I study more broadly DL, ML, RL, and optimization.
+
 
 ### Languages :
 My learning of Python started in University through projects and improved greatly after reading [Fluent Python: 2nd edition](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/) written by Luciano Ramalho. But I have also worked on other programming languages, either in an academic context or by working on projects.
@@ -18,8 +20,4 @@ Most of my projects are done in Pytorch, but I have also done internships in The
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) <br />
 But also JaX and Theano.
 
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LoickCh&count_private=true&show_icons=true&hide_border=true&theme=gotham&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=LoickCh&hide_border=true&theme=gotham&count_private=true" />
-</p>
+![Loick's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=LoickCh&hide_border=true&theme=gotham)
