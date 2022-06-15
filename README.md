@@ -22,5 +22,3 @@ Most of my projects are done in [Pytorch](https://github.com/pytorch/pytorch), b
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 
 But also, [JaX](https://github.com/google/jax) and [Theano](https://github.com/Theano/Theano).
-
-![Loick's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=LoickCh&hide_border=true&theme=gotham)
