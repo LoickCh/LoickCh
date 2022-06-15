@@ -2,6 +2,11 @@
 
 I am French engineer who codes mainly in Python and has some knowledge in C++ and Julia. My work is mainly focused on 3D computer vision problems but I study more broadly DL, ML, RL, and optimization.
 
+</p>
+<p align="center">
+<img src="https://wakatime.com/badge/user/57d887d6-525a-4214-a78c-21863f2f88f7.svg"/>
+<img src="https://views.whatilearened.today/views/github/arthurzucker/views.svg"/>
+</p>
 
 ### Languages :
 My learning of Python started in University through projects and improved greatly after reading [Fluent Python: 2nd edition](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/) written by Luciano Ramalho and [Python Tricks: the book](https://realpython.com/products/python-tricks-book/) written by Dan Bader. 
