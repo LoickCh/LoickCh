@@ -9,11 +9,6 @@ But I have also worked on other programming languages, either in an academic con
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998) 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-
-But also, [Matlab](https://fr.mathworks.com/), [Scilab](https://www.scilab.org/) and [Octave](https://octave.org/index.html).
 
 ### Deep Learning Frameworks
 Most of my projects are done in [Pytorch](https://github.com/pytorch/pytorch), but I have also done internships in [Theano](https://github.com/Theano/Theano) and [Tensorflow](https://github.com/tensorflow/tensorflow). More recently, I started JaX for a Deep Reinforcement Learning project.
